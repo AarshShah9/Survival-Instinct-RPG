@@ -5,7 +5,7 @@ Survival Instinct is a Python text-based adventure game where you have crashed d
 ## Installation
 
 Python 3.7 is needed to play this game. [Python 3.7](https://www.python.org/downloads/) to install Python.
-Clone the github file from https://github.com/Aarshs/Survivalinstinct
+Clone the github file from https://github.com/AarshShah9/Survival-Instinct-RPG/
 
 Modules Colorama, Tabulate are also needed to run this game.
 To install simply run 'pip install colorama tabulate' in your CMD Terminal.
